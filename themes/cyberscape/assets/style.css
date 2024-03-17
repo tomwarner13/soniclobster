@@ -574,29 +574,16 @@ video {
   display: flex;
 }
 
-.h-20 {
-  height: 5rem;
-}
-
-.h-full {
-  height: 100%;
-}
-
-.h-60 {
-  height: 15rem;
-}
-
-.h-fit {
-  height: -moz-fit-content;
-  height: fit-content;
-}
-
 .h-96 {
   height: 24rem;
 }
 
 .h-\[351px\] {
   height: 351px;
+}
+
+.h-full {
+  height: 100%;
 }
 
 .max-h-full {
@@ -617,10 +604,6 @@ video {
 
 .flex-col {
   flex-direction: column;
-}
-
-.flex-nowrap {
-  flex-wrap: nowrap;
 }
 
 .overflow-x-auto {
@@ -730,12 +713,13 @@ video {
 }
 
 @keyframes animate-background {
+  0
   from {
     background-position: 0px 0px;
   }
 
   to {
-    background-position: 300px 0px;
+    background-position: -1232px 0px;
   }
 }
 
