@@ -7,3 +7,18 @@ theme = "cyberscape"
 # Enable this for tailwind in markdown files
 [markup.goldmark.renderer]
 unsafe=true
+
+[[menu.main]]
+name = "Upcoming Shows"
+url = "/upcoming-shows"
+weight = 1
+
+[[menu.main]]
+name = "Lineup"
+url = "/lineup"
+weight = 2
+
+[[menu.main]]
+name = "Contact Us"
+url = "/contact"
+weight = 3
