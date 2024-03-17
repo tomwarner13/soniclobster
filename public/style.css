@@ -586,6 +586,19 @@ video {
   height: 15rem;
 }
 
+.h-fit {
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.h-96 {
+  height: 24rem;
+}
+
+.h-\[351px\] {
+  height: 351px;
+}
+
 .max-h-full {
   max-height: 100%;
 }
