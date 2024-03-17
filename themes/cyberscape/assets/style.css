@@ -578,8 +578,8 @@ video {
   height: 24rem;
 }
 
-.h-\[351px\] {
-  height: 351px;
+.h-\[321px\] {
+  height: 321px;
 }
 
 .h-full {
@@ -669,8 +669,8 @@ video {
   background-image: url('/images/cyberscape.gif');
 }
 
-.bg-\[url\(\'\/images\/header\.jpg\'\)\] {
-  background-image: url('/images/header.jpg');
+.bg-\[url\(\'\/images\/header2\.png\'\)\] {
+  background-image: url('/images/header2.png');
 }
 
 .bg-\[url\(\'\/images\/water\.webp\'\)\] {
@@ -706,21 +706,6 @@ video {
 .text-red-700 {
   --tw-text-opacity: 1;
   color: rgb(185 28 28 / var(--tw-text-opacity));
-}
-
-#header {
-  animation: animate-background linear 10s infinite;
-}
-
-@keyframes animate-background {
-  0
-  from {
-    background-position: 0px 0px;
-  }
-
-  to {
-    background-position: -1232px 0px;
-  }
 }
 
 .margin {

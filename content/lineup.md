@@ -16,7 +16,7 @@ Carl adds many sounds to the band. Some of those sounds include "deep techno rif
 
 ### Drums/Backing Vocals/Loud Noises: Brett
 
-The drummer is the beating heart of any band; Brett is the beating heart of Sonic Lobster in a more abstract way too. He gathered the other members together in his basement to play music, and the band was born.
+The drummer is literally the beating heart of any band; Brett is the beating heart of Sonic Lobster in a more metaphorical way too. He gathered the other members together in his basement to play music, and the band was born.
 
 ### Bass/Guitar/Goofy Dances: Tom
 
