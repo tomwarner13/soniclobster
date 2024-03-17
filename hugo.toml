@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = "cyberscape"
+
+# Enable this for tailwind in markdown files
+[markup.goldmark.renderer]
+unsafe=true
