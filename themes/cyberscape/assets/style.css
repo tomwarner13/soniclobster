@@ -578,10 +578,6 @@ video {
   height: 24rem;
 }
 
-.h-\[321px\] {
-  height: 321px;
-}
-
 .h-full {
   height: 100%;
 }
@@ -667,10 +663,6 @@ video {
 
 .bg-\[url\(\'\/images\/cyberscape\.gif\'\)\] {
   background-image: url('/images/cyberscape.gif');
-}
-
-.bg-\[url\(\'\/images\/header2\.png\'\)\] {
-  background-image: url('/images/header2.png');
 }
 
 .bg-\[url\(\'\/images\/water\.webp\'\)\] {

@@ -2,6 +2,8 @@ baseURL = 'https://soniclobstermaine.band/'
 languageCode = 'en-us'
 title = 'Sonic Lobster (\/) Portland, Maine Cover Band'
 
+enableRobotsTXT = true
+
 theme = "cyberscape"
 
 # Enable this for tailwind in markdown files
