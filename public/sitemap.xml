@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/lineup/</loc>
+    <loc>https://soniclobstermaine.band/lineup/</loc>
     <lastmod>2024-03-17T16:25:51-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://soniclobstermaine.band/</loc>
     <lastmod>2024-03-17T16:25:51-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://soniclobstermaine.band/contact/</loc>
     <lastmod>2024-03-17T16:18:20-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/upcoming-shows/</loc>
+    <loc>https://soniclobstermaine.band/upcoming-shows/</loc>
     <lastmod>2024-03-17T16:08:54-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://soniclobstermaine.band/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://soniclobstermaine.band/tags/</loc>
   </url>
 </urlset>
