@@ -12,7 +12,7 @@ draft = false
 
 With [Matthew Loyal Band](https://www.instagram.com/matthew.loyal/)
 
-South Portland, 9-12 PM, $5 Cover
+Benjamin W Pickett St, South Portland, 8:30PM - 12AM, $5 Cover
 
 *****
 
@@ -24,7 +24,9 @@ Exchange Street, Portland, 7-10 PM, No Cover
 
 ### Saturday September 21 @ [Spring Point Tavern](https://maps.app.goo.gl/kQzbBteAPqmzdUhM9)
 
-South Portland, 9-12 PM, $5 Cover
+With [Nuclear Bootz](https://www.facebook.com/p/Nuclear-Bootz-100063561578113/)
+
+Benjamin W Pickett St, South Portland, 8:30PM - 12AM, $5 Cover
 
 *****
 
