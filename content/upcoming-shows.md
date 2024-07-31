@@ -8,14 +8,6 @@ draft = false
 
 *****
 
-### Saturday July 20 @ [Spring Point Tavern](https://maps.app.goo.gl/kQzbBteAPqmzdUhM9)
-
-With [Matthew Loyal Band](https://www.instagram.com/matthew.loyal/)
-
-Benjamin W Pickett St, South Portland, 8:30PM - 12AM, $5 Cover
-
-*****
-
 ### Friday August 30 @ [Thirsty Pig](https://www.thirstypigportland.com/)
 
 Exchange Street, Portland, 7-10 PM, No Cover
