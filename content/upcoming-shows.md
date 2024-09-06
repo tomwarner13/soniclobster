@@ -8,12 +8,6 @@ draft = false
 
 *****
 
-### Friday August 30 @ [Thirsty Pig](https://www.thirstypigportland.com/)
-
-Exchange Street, Portland, 7-10 PM, No Cover
-
-*****
-
 ### Saturday September 21 @ [Spring Point Tavern](https://maps.app.goo.gl/kQzbBteAPqmzdUhM9)
 
 With [Nuclear Bootz](https://www.facebook.com/p/Nuclear-Bootz-100063561578113/)
