@@ -8,11 +8,7 @@ draft = false
 
 *****
 
-### Saturday September 21 @ [Spring Point Tavern](https://maps.app.goo.gl/kQzbBteAPqmzdUhM9)
-
-With [Nuclear Bootz](https://www.facebook.com/p/Nuclear-Bootz-100063561578113/)
-
-Benjamin W Pickett St, South Portland, 8:30PM - 12AM, $5 Cover
+### We currently do not have any upcoming shows (Brett is about to be a dad!). Check back in a few months when the baby drummer is older.
 
 *****
 
