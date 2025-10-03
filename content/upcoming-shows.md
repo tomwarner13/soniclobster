@@ -8,7 +8,13 @@ draft = false
 
 *****
 
-### We currently do not have any upcoming shows (Brett is about to be a dad!). Check back in a few months when the baby drummer is older.
+### FLANNEL FEST 2025
+
+Join us in Ray's backyard in Scarborough for fire, pizza, drinks, and music. Wear your best (or worst!) flannel. Admission is free with a donation to [Maine Needs](https://www.maineneeds.org).
+
+**WHERE**: Ray's house (message the band for address)
+
+**WHEN**: Saturday, November 15, 2025; 2-6PM
 
 *****
 
