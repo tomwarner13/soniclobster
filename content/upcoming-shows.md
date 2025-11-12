@@ -8,7 +8,7 @@ draft = false
 
 *****
 
-### FLANNEL FEST 2025
+### [FLANNEL FEST 2025](/ff25)
 
 Join us in Ray's backyard in Scarborough for fire, pizza, drinks, and music. Wear your best (or worst!) flannel. Admission is free with a donation to [Maine Needs](https://www.maineneeds.org).
 
